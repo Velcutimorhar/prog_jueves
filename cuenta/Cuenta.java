@@ -1,5 +1,5 @@
 package cuenta;
-//import java.lang.Object; 
+
 public class Cuenta {
 
  
