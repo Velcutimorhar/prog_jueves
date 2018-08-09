@@ -71,23 +71,22 @@ private void generarDni() {
  
     //Método para establecer el nombre de una persona
     public void setNombre (String valornombre){
-        nombre = "nombre" + valornombre; //El nombre del objeto persona adquiere el valor que contenga valornombre
+        nombre = "nombre" + valornombre; 
     }//cierre del método
-    //Método para establecer los apellidos de una persona
     public void setPeso (double valorpeso){
-        peso = valorpeso;// los apellidos del objeto persona adquiere el valor que contenga valorapellidos
-    }//cierre del método
+        peso = valorpeso;
+    }
     //Método para establecer los edad de una persona
     public void setEdad (int valoredad){
         edad = valoredad;//la edad del objeto persona adquiere el valor que contenga valoredad
     }//Cierre del método
-    //Método para establecer si una persona esta casada
+   
     public void setAltura(double valoraltura){
-        altura = valoraltura;// sabemos si el objeto persona está casado
+        altura = valoraltura;
     }//Cierre del método
-    //Método para establecer el numeroDocumentoidentidad de una persona
+   
     public void setnumeroDNI (String valornumeroDNI){
-        DNI= valornumeroDNI;// DNI del objeto persona adquiere el valor que contenga numeroDocumentoidentidad
+        DNI= valornumeroDNI;
     }//Cierre del método
    public void setSexo(char sexo) {
         this.sexo = sexo;
