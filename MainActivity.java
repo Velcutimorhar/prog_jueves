@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity implements FiltersListFragme
 
     private static final String TAG = MainActivity.class.getSimpleName();
 
-    public static final String IMAGE_NAME = "dog.jpg";
+    public static final String IMAGE_NAME = "lena.jpg";
 
     public static final int SELECT_GALLERY_IMAGE = 101;
 
